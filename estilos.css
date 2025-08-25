@@ -1,0 +1,35 @@
+/* CSS DOCUMENT*/
+@charset "UTF-8";
+
+@font-face {
+    font-family: "pixel";
+    src: url(fonts/Pixelbasel.ttf) format(truetype);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "quicksand";
+    src: url(fonts/Quicksand-VariableFont_wght.ttf) format(truetype);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "nunito";
+    src: url(fonts/Nunito-VariableFont_wght.ttf);format(truetype);
+    font-weight: normal;
+}
+
+h1 {
+    font-family: 'pixel', monospace;
+    color: #0000ff;
+    font-size: 45px;
+}
+
+h2 {
+    font-family: 'quicksand', sans-serif;
+    color: #ff0000;
+}
+
+* {font-family: 'nunito', sans-serif;
+
+}
